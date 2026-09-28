@@ -1,1 +1,2 @@
-print ("toto je muj projekt")
+jmeno = input("zadejte vase jmeno:")
+print (f" ahoj{jmeno} vitej v mem projektu")
